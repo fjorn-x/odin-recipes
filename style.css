@@ -1,0 +1,22 @@
+body {
+  background: linear-gradient(90deg, lightblue, white);
+}
+h1 {
+  text-align: center;
+  margin: auto;
+  color: green;
+  font-family: "Courier New", Courier, monospace;
+}
+li {
+  color: lightblue;
+}
+a {
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  text-decoration: line-through;
+}
+a:hover {
+  color: gold;
+}
